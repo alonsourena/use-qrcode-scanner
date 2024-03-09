@@ -1,16 +1,25 @@
 {
   "name": "use-qrcode-scanner",
-  "version": "1.0.1",
-  "description": "",
+  "description": "A react hook for html5-qrcode",
+  "license": "ISC",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "React",
+    "Hooks",
+    "React Hooks"
+  ],
+  "author": "Alonso Ureña",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alonsourena/use-qrcode-scanner.git",
+    "directory": "use-qrcode-scanner"
   }
 }
